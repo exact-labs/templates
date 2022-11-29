@@ -1,0 +1,8 @@
+name: static_http
+description: simple static webserver
+version: 0.0.1
+author: theMackabu
+url: justjs.dev
+license: none
+index: index.js
+tasks:

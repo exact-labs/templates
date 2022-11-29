@@ -1,0 +1,8 @@
+name: cmd_spawn
+description: spawn cli command
+version: 0.0.1
+author: theMackabu
+url: justjs.dev
+license: none
+index: index.js
+tasks:
