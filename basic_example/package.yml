@@ -6,3 +6,5 @@ url: justjs.dev
 license: none
 index: index.js
 tasks:
+tests:
+dependencies:
